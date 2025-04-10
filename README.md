@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **official.rashid25@gmail.com**
 
-<h3 align="left">Connect with me: **www.linkedin.com/in/md-rashid2003**</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/md-rashid2003 </h3>
 <p align="left">
 </p>
 
