@@ -3,11 +3,9 @@
 
 - 🌱 I’m currently learning **Jetpack Compose, MVVM**
 
-- 💬 Ask me about **C++,Kotlin,MySQL,Python**
+- 💬 Ask me about **SQL,Python,PowerBI,Advanced Excel**
 
 - 📫 How to reach me **official.rashid25@gmail.com**
-
-- 📄 Know about my experiences [https://flowcv.com/resume/i9uftpiw7w](https://flowcv.com/resume/i9uftpiw7w)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
