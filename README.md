@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Md Rashid</h1>
 <h3 align="center">Exploring Android Development: A Fresh Perspective on Mobile App Design and Coding</h3>
 
-- 🌱 I’m currently learning **Jetpack Compose, MVVM**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **SQL,Python,PowerBI,Advanced Excel**
 
 - 📫 How to reach me **official.rashid25@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **www.linkedin.com/in/md-rashid2003**</h3>
 <p align="left">
 </p>
 
